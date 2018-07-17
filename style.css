@@ -12,7 +12,7 @@ h4 {
 }
 
 .navbar-brand{
-  color: rgb(18, 152, 214);
+  color: rgb(18, 152, 214) !important;
 }
 
 
